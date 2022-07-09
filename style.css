@@ -1,0 +1,90 @@
+
+
+#currPage {
+    font-weight: bold;
+}
+
+#hyperlink {
+    color: blue;
+    font-size: 20px;
+}
+
+.navigation {
+    background-color: #7a9fc9;
+    margin:100px 10px 100px 10px
+}
+
+.navigationBar {
+    color: white;
+    font-size: 30px;
+    margin: 70px;
+    text-align:center;
+}
+
+.navigationBar:hover {
+    color: yellow;
+    font-size: 30px;
+    margin: 70px;
+    text-align:center;
+}
+
+.disabled-link{
+    cursor: default;
+    pointer-events: none;        
+    text-decoration: none;
+    color: inherit;
+}
+
+
+.center{
+    text-align: center;
+}
+
+.spacing{
+    text-align: center;
+    padding: 115px 0px 115px 0px
+}
+.readMe{
+    font-size: 18px;
+    color: black;
+    margin: 110px;
+    border: 2px dotted #7a9fc9;
+    padding: 5px 25px 5px 25px 
+}
+
+
+body{ 
+    background: white;
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+a, a:focus, a:active {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: none;
+    color: yellow;
+}
+
+h3 {
+    color: #7a9fc9;
+}
+
+
+h1 {
+    color: #7a9fc9;
+    font-size: 45px;
+    font-family: "PermanentMarker"
+
+}
+
+h3 {
+    font-family: "Lucida Sans Typewriter";
+}
+
+li {
+    font-family: "Century Gothic";
+
+}
